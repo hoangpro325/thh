@@ -66,8 +66,11 @@ https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
 http://103.77.241.152:1234/stream/cnn/stream.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/03/onvoy8cw_bbc-thumbd58ab16f0bbb03a6eac99c813844aa28_296_168.png", BBC News
 http://103.77.241.152:1234/stream/bbcnews/stream.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://sctv.com.vn/Media/KenhTrai/Discovery.png", Discovery
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/13_f572e653.jpg", Discovery
 http://103.77.241.152:1234/stream/discovery/stream.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.png", Animal Planet
+http://103.77.241.152:1234/stream/discovery/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/rtj1fwg1_ngang-hbo5488cb97fc2af048dc243a9fd848ce17_296_168.png", HBO HD
 http://103.77.241.152:1234/stream/hbo/stream.m3u8
@@ -81,9 +84,14 @@ http://103.77.241.152:1234/stream/axnhd/stream.m3u8
 http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/28/z55ohqoi_thumb-cartoon042aba8a2529db62431a0427bc9f9403_296_168.png", Cartoon Network
 http://103.77.241.152:1234/stream/cartoonnetworkhd/stream.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png", Animax
+http://103.77.241.152:1234/stream/animax/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710924772/cmc_new/img.live_channel/0/0/0/0/268.jpg", Box Hits
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/38.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg", Box Movie
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/39.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg", Hollywood Classics
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/42.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
