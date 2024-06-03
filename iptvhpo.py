@@ -27,13 +27,13 @@ http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/1.m3u8
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/2.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/3.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png", SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/6_132935f2.jpg", SCTV6 HD
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/6.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/6.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/7.m3u8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/9_2e957ae2.jpg", SCTV9 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/8.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/10.m3u8
@@ -51,6 +51,10 @@ http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/15.m3u8
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/16.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/17.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/19_3b86f52a.jpg", SCTV19 HD
+http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/18.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" tvg-logo="https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/20_6c70556d.jpg", SCTV20 HD
+http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/19.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/21.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
