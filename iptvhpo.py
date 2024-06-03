@@ -40,7 +40,7 @@ http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/10.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/11.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD
-http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/11.m3u8
+http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/12.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/13.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
@@ -56,15 +56,18 @@ http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/21.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/22.m3u8
 
-
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", World
-https://live-3.otcnet.ru/wfc-int-master/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV 2
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV 2
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 
 http://103.77.241.152:1234/stream/fashiontv/stream.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion Russian
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion Russian
 https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/sxj3bvb4_cnn-ngang2cdca2dd518550ff512499db2fefc67f_296_168.png", CNN
+http://103.77.241.152:1234/stream/cnn/stream.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/03/onvoy8cw_bbc-thumbd58ab16f0bbb03a6eac99c813844aa28_296_168.png", BBC News
+http://103.77.241.152:1234/stream/bbcnews/stream.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://sctv.com.vn/Media/KenhTrai/Discovery.png", Discovery
+http://103.77.241.152:1234/stream/discovery/stream.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/rtj1fwg1_ngang-hbo5488cb97fc2af048dc243a9fd848ce17_296_168.png", HBO HD
 http://103.77.241.152:1234/stream/hbo/stream.m3u8
@@ -78,5 +81,9 @@ http://103.77.241.152:1234/stream/axnhd/stream.m3u8
 http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/28/z55ohqoi_thumb-cartoon042aba8a2529db62431a0427bc9f9403_296_168.png", Cartoon Network
 http://103.77.241.152:1234/stream/cartoonnetworkhd/stream.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710924772/cmc_new/img.live_channel/0/0/0/0/268.jpg", Box Hits
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/38.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
