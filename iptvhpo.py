@@ -94,7 +94,7 @@ http://103.77.241.152:1234/stream/axnhd/stream.m3u8
 http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🎬| Phim truyện" tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg", Cartoon Network
 http://103.77.241.152:1234/stream/cartoonnetworkhd/stream.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="🎬| Phim truyện" tvg-logo="https://img.lichphatsong.xyz/logo/happykids.jpg", Kids
+#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://img.lichphatsong.xyz/logo/happykids.jpg", Kids
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/3.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🎬| Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png", Animax
 http://103.77.241.152:1234/stream/animax/stream.m3u8
