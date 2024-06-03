@@ -66,43 +66,43 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 http://103.77.241.152:1234/stream/fashiontv/stream.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion Russian
 https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/Man_150x901j3_1675158880.webp", MAN
+#EXTINF:-1 tvg-id="man" group-title="🤣| Giải trí & News" tvg-logo="https://img.lichphatsong.xyz/logo/man.jpg", Man HD
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/43.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/14_1baa02dd.jpg", Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="🤣| Giải trí & News" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/14_1baa02dd.jpg", Dr.Fit
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/40.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/sxj3bvb4_cnn-ngang2cdca2dd518550ff512499db2fefc67f_296_168.png", CNN
+#EXTINF:-1 tvg-id="cnn" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/sxj3bvb4_cnn-ngang2cdca2dd518550ff512499db2fefc67f_296_168.png", CNN
 http://103.77.241.152:1234/stream/cnn/stream.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/03/onvoy8cw_bbc-thumbd58ab16f0bbb03a6eac99c813844aa28_296_168.png", BBC News
+#EXTINF:-1 tvg-id="" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/03/onvoy8cw_bbc-thumbd58ab16f0bbb03a6eac99c813844aa28_296_168.png", BBC News
 http://103.77.241.152:1234/stream/bbcnews/stream.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/13_f572e653.jpg", Discovery
+#EXTINF:-1 tvg-id="" group-title="🤣| Giải trí & News" tvg-logo="https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/13_f572e653.jpg", Discovery
 http://103.77.241.152:1234/stream/discovery/stream.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/12_cb8fc96b.jpg", Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🤣| Giải trí & News" tvg-logo="https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/12_cb8fc96b.jpg", Discovery Asia
 http://103.77.241.152:1234/stream/discoveryasia/stream.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.png", Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="🤣| Giải trí & News" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg", Animal Planet
 http://103.77.241.152:1234/stream/animalplanet/stream.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/rtj1fwg1_ngang-hbo5488cb97fc2af048dc243a9fd848ce17_296_168.png", HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/rtj1fwg1_ngang-hbo5488cb97fc2af048dc243a9fd848ce17_296_168.png", HBO HD
 http://103.77.241.152:1234/stream/hbo/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
 http://103.77.241.152:1234/stream/cinemaxhd/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/28/khnq454u_thumb-ngang-warner447e4a3e736de3c32294ef14a0b7596a_296_168.png", warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/28/khnq454u_thumb-ngang-warner447e4a3e736de3c32294ef14a0b7596a_296_168.png", warner TV
 http://103.77.241.152:1234/stream/warnertv/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/28/ysczm220_thumb-axnd0d194cd786e0a6dee1f20a1eb315865_296_168.png", AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="🎬| Phim truyện" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png", AXN HD
 http://103.77.241.152:1234/stream/axnhd/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png", Cinema World
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaworldhd.jpg", Cinema World
 http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/28/z55ohqoi_thumb-cartoon042aba8a2529db62431a0427bc9f9403_296_168.png", Cartoon Network
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🎬| Phim truyện" tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg", Cartoon Network
 http://103.77.241.152:1234/stream/cartoonnetworkhd/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/4dk0h3jq_vtvcab21_296_168.png", Kids
+#EXTINF:-1 tvg-id="happykids" group-title="🎬| Phim truyện" tvg-logo="https://img.lichphatsong.xyz/logo/happykids.jpg", Kids
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/3.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png", Animax
+#EXTINF:-1 tvg-id="animaxhd" group-title="🎬| Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png", Animax
 http://103.77.241.152:1234/stream/animax/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710924772/cmc_new/img.live_channel/0/0/0/0/268.jpg", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="🎬| Phim truyện" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710924772/cmc_new/img.live_channel/0/0/0/0/268.jpg", Box Hits
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/38.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg", Box Movie
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim truyện" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg", Box Movie
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/39.m3u8
-#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg", Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim truyện" tvg-logo="https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg", Hollywood Classics
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/42.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
