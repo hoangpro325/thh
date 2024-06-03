@@ -66,14 +66,20 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 http://103.77.241.152:1234/stream/fashiontv/stream.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion Russian
 https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20210731/2021073114/Man_150x901j3_1675158880.webp", MAN
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/43.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/14_1baa02dd.jpg", Dr.Fit
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/40.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/sxj3bvb4_cnn-ngang2cdca2dd518550ff512499db2fefc67f_296_168.png", CNN
 http://103.77.241.152:1234/stream/cnn/stream.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/03/onvoy8cw_bbc-thumbd58ab16f0bbb03a6eac99c813844aa28_296_168.png", BBC News
 http://103.77.241.152:1234/stream/bbcnews/stream.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/13_f572e653.jpg", Discovery
 http://103.77.241.152:1234/stream/discovery/stream.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/12_cb8fc96b.jpg", Discovery Asia
+http://103.77.241.152:1234/stream/discoveryasia/stream.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/07/10/4zwxanz9_ngang6e39dff1f114e3fe857d2dddf3cc9120_296_168.png", Animal Planet
-http://103.77.241.152:1234/stream/discovery/stream.m3u8
+http://103.77.241.152:1234/stream/animalplanet/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/rtj1fwg1_ngang-hbo5488cb97fc2af048dc243a9fd848ce17_296_168.png", HBO HD
