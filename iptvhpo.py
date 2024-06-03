@@ -84,6 +84,8 @@ http://103.77.241.152:1234/stream/axnhd/stream.m3u8
 http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/28/z55ohqoi_thumb-cartoon042aba8a2529db62431a0427bc9f9403_296_168.png", Cartoon Network
 http://103.77.241.152:1234/stream/cartoonnetworkhd/stream.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/4dk0h3jq_vtvcab21_296_168.png", Kids
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/3.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png", Animax
 http://103.77.241.152:1234/stream/animax/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710924772/cmc_new/img.live_channel/0/0/0/0/268.jpg", Box Hits
