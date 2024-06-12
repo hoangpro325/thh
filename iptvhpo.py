@@ -64,8 +64,6 @@ http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/22.m3u8
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 
 http://103.77.241.152:1234/stream/fashiontv/stream.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí & News" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion Russian
-https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🤣| Giải trí & News" tvg-logo="https://img.lichphatsong.xyz/logo/man.jpg", Man HD
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/43.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="🤣| Giải trí & News" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/14_1baa02dd.jpg", Dr.Fit
