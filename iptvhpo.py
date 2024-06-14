@@ -80,6 +80,8 @@ http://103.77.241.152:1234/stream/discovery/stream.m3u8
 http://103.77.241.152:1234/stream/discoveryasia/stream.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="♻️| Giải trí & News" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg", Animal Planet
 http://103.77.241.152:1234/stream/animalplanet/stream.m3u8
+#EXTINF:-1 tvg-id="lovenature" group-title="♻️| Giải trí & News" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-11.png", Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/rtj1fwg1_ngang-hbo5488cb97fc2af048dc243a9fd848ce17_296_168.png", HBO HD
